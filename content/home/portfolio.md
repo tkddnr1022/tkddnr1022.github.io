@@ -32,8 +32,6 @@ content:
       tag: FE
     - name: Backend
       tag: BE
-    - name: Etc
-      tag: ETC
 
 design:
   columns: '1'
