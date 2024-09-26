@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
-widget: experience
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
@@ -26,10 +26,21 @@ item:
   - certificate_url: https://www.hrdkorea.or.kr/
     date_end: ''
     date_start: '2024-08-20'
-    description: ''
+    description: |2-
+        * 필기(취득)
+        * 실기(예정)
     organization: 한국산업인력공단
     organization_url: https://www.hrdkorea.or.kr/
-    title: 정보처리기사
+    title: '정보처리기사'
+    url: ''
+  - certificate_url: https://www.toeic.co.kr/
+    date_end: ''
+    date_start: '2024-08-04'
+    description: |2-
+        * 835
+    organization: YBM
+    organization_url: https://www.toeic.co.kr/
+    title: 'TOEIC'
     url: ''
 
 design:
