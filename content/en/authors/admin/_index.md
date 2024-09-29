@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 유상욱
+title: Sangwook You
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 프론트엔드와 백엔드 기술, 웹 서비스 설계를 공부하고 있습니다.
+bio: I am studying front-end and back-end technologies, and web service design.
 
 #interests:
 #- Artificial Intelligence
@@ -69,8 +69,8 @@ social:
 #email: "tkddnr10222@gmail.com"
 ---
 
-전북대학교에서 컴퓨터공학 전공을 하고 있습니다. 새내기때 부터 웹개발에 관심이 많았고, Apache+MySQL+PHP 스택으로 처음 공부를 시작한 뒤로 현재는 React, React Native, Nest.js 를 공부하고 있습니다.
+I am majoring in computer engineering at Jeonbuk National University. I have been interested in web development since I was a freshman, and after starting to study with Apache+MySQL+PHP stack, I am currently studying React, React Native, and Nest.js.
 
-1인 개발과 풀스택을 선호하나, 항상 타인의 작업물로부터 많은 것을 배워가고 있습니다. 저는 **프로덕트 메이커** 성향이 짙어 개발 과정에서 늘 사용자 경험에 대해 고민합니다. OOP를 지향하고, 더 좋은 개발자가 되기 위해 서비스 설계와 인프라 지식을 틈틈히 공부하고 있습니다.
+I prefer individual development and full stack, but I always learn a lot from other people's work. I have a strong **product maker** tendency, so I always think about user experience during the development process. I am aiming for OOP, and I am studying service design and infrastructure knowledge in my spare time to become a better developer.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}이력서 다운로드{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download Resume{{< /staticref >}}
