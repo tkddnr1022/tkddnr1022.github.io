@@ -1,6 +1,6 @@
 ---
 title: OurTree
-summary: 청소년을 위한 학교 커뮤니티
+summary: School Community for Youth
 tags:
   - FE
   - BE

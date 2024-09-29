@@ -1,6 +1,6 @@
 ---
 title: Class-Manager
-summary: 위치 기반 QR 출석 서비스
+summary: Location-based QR attendance service
 tags:
   - BE
   - FE
