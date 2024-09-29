@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 자격
+title: Certification
 subtitle:
 
 # Date format
@@ -27,11 +27,11 @@ item:
     date_end: ''
     date_start: '2024-08-20'
     description: |2-
-        * 필기(취득)
-        * 실기(예정)
-    organization: 한국산업인력공단
+        * Written (acquired)
+        * Practical (planned)
+    organization: HRD Korea
     organization_url: https://www.hrdkorea.or.kr/
-    title: '정보처리기사'
+    title: 'Information Processing Engineer'
     url: ''
   - certificate_url: https://www.toeic.co.kr/
     date_end: ''
