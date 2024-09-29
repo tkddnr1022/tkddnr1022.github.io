@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: '포트폴리오'
-subtitle: '지금까지 진행했거나 진행중인 프로젝트들 입니다.'
+title: 'Portfolio'
+subtitle: 'These are the projects that have been carried out or are in progress.'
 
 content:
   # Page type to display. E.g. project.
