@@ -3,11 +3,24 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
+ko:
+  languageCode: ko-kr
+  contentDir: content/ko
+
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
+  contentDir: content/en
+  title: Sangwook You
+  params:
+    description: Portfolio
+  menu:
+    main:
+      - name: home
+        url: /
+        weight: 10
+      - name: about
+        url: about/
+        weight: 20
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
