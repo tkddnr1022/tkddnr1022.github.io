@@ -22,7 +22,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-  - name: Github
+  - name: GitHub
     url: https://github.com/tkddnr1022/Class-Manager
     icon_pack: fab
     icon: github
