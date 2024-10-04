@@ -13,3 +13,6 @@ main:
   - name: 프로젝트
     url: project/
     weight: 30
+  - name: 활동
+    url: activity/
+    weight: 40

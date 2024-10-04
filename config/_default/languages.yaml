@@ -24,6 +24,9 @@ en:
       - name: Project
         url: project/
         weight: 30
+      - name: Activity
+        url: activity/
+        weight: 40
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
