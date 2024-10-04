@@ -15,12 +15,15 @@ en:
     description: Portfolio
   menu:
     main:
-      - name: home
+      - name: Home
         url: /
         weight: 10
-      - name: about
+      - name: About
         url: about/
         weight: 20
+      - name: Project
+        url: project/
+        weight: 30
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans

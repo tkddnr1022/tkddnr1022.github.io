@@ -10,3 +10,6 @@ main:
   - name: 이력서
     url: about/
     weight: 20
+  - name: 프로젝트
+    url: project/
+    weight: 30
