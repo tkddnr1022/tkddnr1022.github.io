@@ -2,7 +2,7 @@
 // https://hugoblox.com/hugo-themes/
 
 body {
-  background-color: rgb(247, 250, 252);
+  background-color: #FBFBFB;
 }
 
 .article-container {
@@ -16,11 +16,11 @@ body {
 
 // custom footer color
 .page-footer {
-  background-color: rgb(247, 250, 252);
+  background-color: #FBFBFB;
 }
 
 .dark .page-footer {
-  background-color: rgb(26, 32, 44);
+  background-color: #292929;
 }
 
 // more rounded cards and larger gap between cards
@@ -122,4 +122,26 @@ ul.network-icon .big-icon {
 
 .dark .custom-text {
   color: #fff!important;
+}
+
+// 누락된 다크 모드 속성
+.dark .btn-outline-primary {
+  border-color: #f5f5f5;
+}
+
+.dark .btn:hover {
+  background-color: #e9e9e9;
+  color: #1a202c;
+}
+
+.dark .btn-primary {
+  background-color: #aca8a8!important;
+}
+
+.dark .btn.btn-primary:hover {
+  background-color: #d8d1d1!important;
+}
+
+.dark .btn.btn-primary.active {
+  background-color: #777474!important;
 }
