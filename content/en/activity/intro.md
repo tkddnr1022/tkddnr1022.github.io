@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Activities
+title: Extracurricular Activities
 subtitle: Stories about memorable experiences.
 weight: 10  # section position on page
 
