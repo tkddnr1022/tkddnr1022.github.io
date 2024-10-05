@@ -10,9 +10,13 @@ main:
   - name: 이력서
     url: about/
     weight: 20
-  - name: 프로젝트
-    url: project/
-    weight: 30
   - name: 활동
+    weight: 30
+  - parent: 활동
+    name: 프로젝트
+    url: project/
+    weight: 1
+  - parent: 활동
+    name: 대외활동
     url: activity/
-    weight: 40
+    weight: 2

@@ -21,12 +21,16 @@ en:
       - name: About
         url: about/
         weight: 20
-      - name: Project
-        url: project/
-        weight: 30
       - name: Activity
+        weight: 30
+      - parent: Activity
+        name: Project
+        url: project/
+        weight: 1
+      - parent: Activity
+        name: Extracurricular Activities
         url: activity/
-        weight: 40
+        weight: 2
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
