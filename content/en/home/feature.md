@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Technologies
-subtitle: These are technologies that I am learning with interest.
+subtitle: These are technologies that I am learning with interest. <br><br>
 weight: 30 # The position of section on page
 
 # Showcase personal skills or business features.
@@ -14,15 +14,15 @@ feature:
   - icon: node-js
     icon_pack: fab
     name: JS Framework
-    description: JavaScript-based frameworks such as NodeJs, NextJS, NestJS
+    description: JavaScript-based frameworks such as NodeJs, NextJS, NestJS <br><br>
   - icon: database
     icon_pack: fas
     name: DBMS
-    description: RDBMS, NoSQL database
+    description: RDBMS, NoSQL database <br><br>
   - icon: code
     icon_pack: fas
     name: OOP
-    description: Object-oriented code
+    description: Object-oriented code <br><br>
   - icon: sitemap
     icon_pack: fas
     name: Architecture
