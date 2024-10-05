@@ -29,9 +29,9 @@ content:
     - name: All
       tag: '*'
     - name: Frontend
-      tag: FE
+      tag: Frontend
     - name: Backend
-      tag: BE
+      tag: Backend
 
 design:
   columns: '1'

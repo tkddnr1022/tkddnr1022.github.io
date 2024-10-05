@@ -4,7 +4,7 @@
 title: "Class-Manager"
 summary: "위치 기반 QR 출석 서비스"
 authors: [admin]
-tags: ["FE", "BE"]
+tags: ["Frontend", "Backend"]
 categories: []
 date: 2024-09-01
 

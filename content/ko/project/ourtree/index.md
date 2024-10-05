@@ -4,7 +4,7 @@
 title: "OurTree"
 summary: "청소년을 위한 학교 커뮤니티 서비스"
 authors: [admin]
-tags: ["BE"]
+tags: ["Backend"]
 categories: []
 date: 2024-04-01
 

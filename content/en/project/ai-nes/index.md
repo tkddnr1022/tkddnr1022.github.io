@@ -4,7 +4,7 @@
 title: "AI-NES"
 summary: "AI News Sentiment Analysis Service"
 authors: [admin]
-tags: ["FE"]
+tags: ["Frontend"]
 categories: []
 date: 2024-03-01
 

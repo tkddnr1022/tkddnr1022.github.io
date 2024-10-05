@@ -4,7 +4,7 @@
 title: "AI-NES"
 summary: "AI 뉴스 감정 분석 서비스"
 authors: [admin]
-tags: ["FE"]
+tags: ["Frontend"]
 categories: []
 date: 2024-03-01
 
