@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'Portfolio'
+title: '<br>Portfolio'
 subtitle: 'These are the projects that have been carried out or are in progress.'
 
 content:
