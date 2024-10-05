@@ -17,7 +17,7 @@ external_link:
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -43,3 +43,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+# OurTree
+전북대학교 2024년도 창업 동아리 Our Tree(아트) 에서 진행하고 있는 **학교별 익명 커뮤니티 서비스** 프로젝트 입니다.
+
+[깃허브 리포지토리](https://github.com/tkddnr1022/OurTree)를 참고해주세요.

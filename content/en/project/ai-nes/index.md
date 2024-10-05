@@ -39,3 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+# AI-NES
+This is the **AI News Sentiment Analysis Service** project conducted in the first semester of 2024 open source software class.
+
+Please refer to the [GitHub repository](https://github.com/jchanho99/AI_NES).

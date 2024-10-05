@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+# AI-NES
+2024년도 1학기 오픈소스 소프트웨어 수업에서 진행한 **AI 뉴스 감정 분석 서비스** 프로젝트 입니다.
+
+[깃허브 리포지토리](https://github.com/jchanho99/AI_NES)를 참고해주세요.

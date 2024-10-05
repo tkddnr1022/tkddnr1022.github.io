@@ -43,3 +43,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+# OurTree
+This is a **School-specific anonymous community service** project being carried out by Our Tree (Art), a 2024 startup club at Jeonbuk National University.
+
+Please refer to the [GitHub repository](https://github.com/tkddnr1022/OurTree).
