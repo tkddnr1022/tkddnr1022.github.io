@@ -12,7 +12,7 @@ name = "Starter Blog"
   menu_title = "#2b2b2b"
 
   background = "#FBFBFB"
-  home_section_odd = "#FBFBFB"
+  home_section_odd = "#f0f0f0"
   home_section_even = "#FBFBFB"
 
 [dark]
@@ -20,6 +20,6 @@ name = "Starter Blog"
   link = "#aca8a8"
   link_hover = "#f5f5f5"
   background = "#292929"
-  home_section_odd = "#292929"
+  home_section_odd = "#2F2F2F"
   home_section_even = "#292929"
   menu_primary = "#292929"
