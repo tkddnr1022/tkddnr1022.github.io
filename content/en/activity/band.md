@@ -5,10 +5,12 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: Band Club
 subtitle: "College of Engineering Band Club Gyeonwoo Jiknyeo
-<br><br>
+<br>
+<p class='custom-text'>
 It was an opportunity to start a hobby called music, and luckily, I was able to meet many good people.<br><br>
 Not only the sense of belonging and solidarity, but also the interaction with various people gave vitality to my daily life.<br><br>
 I gained meaningful experiences and rewards by participating in internal and external events such as school festivals and camps.
+</p>
 "
 
 
